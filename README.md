@@ -21,12 +21,17 @@ It processes images, learns visual features, and predicts whether a given image 
 
 ---
 
-## 📂 Dataset
+## 📂 Project Files
+All required files (trained model and dataset) can be downloaded from the Google Drive link below:
+https://drive.google.com/drive/folders/1iOnZca-4JMQBHXuyn8MndUyAtvE6oYCz?usp=drive_link
+
 
 
 * Folder Structure:
 
   ```
+  all files/
+  cat_dog_classifier.h5/
   dataset/
   ├── train/
   │   ├── cats/
